@@ -1,21 +1,28 @@
-# Proyecto Final Power BI: Análisis de Ventas Pizzería
+# Dashboard Final: Análisis Ejecutivo de Rendimiento de Sucursales
 
-Este repositorio contiene el trabajo final de laboratorio de Power BI. El objetivo fue transformar datos crudos de una cadena de pizzerías en Chaco en un sistema de inteligencia de negocios para la toma de decisiones.
+## Objetivo
+Transformar los datos de ventas en un dashboard de Data Storytelling de un solo lienzo para identificar la causa del estancamiento y proponer acciones de negocio inmediatas.
 
-## Vistas Previas del Dashboard
+## Hallazgos Clave (Smart Narrative)
 
-### 1. Análisis Ejecutivo: Rendimiento de Sucursales
-*Visión macro de la facturación, tendencias trimestrales y distribución geográfica.*
-![Análisis de Sucursales](Página%201.jpeg)
-
-### 2. Análisis Ejecutivo: Rendimiento de Productos
-*Visión detallada de categorías, ranking de productos y venta cruzada.*
-![Análisis de Productos](Página%202.jpeg)
+1.  La caída del **-0.21% en el Crecimiento Anual** se debe a una fuerte contracción en el último trimestre de 2024, siendo más grave en sucursales con alta dependencia en Acompañamientos.
+2.  El crecimiento positivo en Juan José Castelli y Resistencia Sur, con baja venta de esta categoría, valida que Acompañamientos no impulsa la rentabilidad sostenible.
+3.  **Recomendación:** Redirigir la estrategia de venta cruzada, abandonando los incentivos de Acompañamientos para enfocarse exclusivamente en las categorías Bebidas y Postres.
 
 ---
 
-## Contenido del Repositorio
+## Vistas del Proyecto Final
 
-* **`Análisis de ventas Pizzería.pbix`**: Archivo fuente editable con el modelo de datos y las visualizaciones.
-* **`DOCUMENTACIÓN...`**: Informe técnico detallado en PDF sobre el proceso de ETL y modelado.
-* **`Imágenes (.jpeg)`**: Capturas de alta calidad del informe final.
+### 1. Vista General del Dashboard (Con el Smart Narrative)
+![Dashboard Final - Conclusión y KPIs](dashboard_final_1.png)
+
+### 2. Vista de Detalle (Con el Panel de Filtros Desplegado)
+![Dashboard Final - Filtros y Visuales](dashboard_final_2.png)
+
+---
+
+## Archivos Entregados
+* **Análisis de ventas Pizzería.pbix:** Contiene el dashboard final de un solo lienzo.
+* **DOCUMENTACIÓN ANÁLISIS DE DATOS PIZZERÍA...:** Explica el flujo narrativo, las decisiones de diseño y la implementación técnica del KPI.
+
+---
