@@ -14,10 +14,10 @@ Transformar los datos de ventas en un dashboard de Data Storytelling de un solo 
 ## Vistas del Proyecto Final
 
 ### 1. Vista General del Dashboard (Con el Smart Narrative)
-![Dashboard Final - Conclusión y KPIs](dashboard_final_1.png)
+![Dashboard Final - Conclusión y KPIs](dashboard_final_1.jpeg)
 
 ### 2. Vista de Detalle (Con el Panel de Filtros Desplegado)
-![Dashboard Final - Filtros y Visuales](dashboard_final_2.png)
+![Dashboard Final - Filtros y Visuales](dashboard_final_2.jpeg)
 
 ---
 
