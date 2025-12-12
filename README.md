@@ -22,7 +22,7 @@ Transformar los datos de ventas en un dashboard de Data Storytelling de un solo 
 ---
 
 ## Archivos Entregados
-* **Análisis de ventas Pizzería.pbix:** Contiene el dashboard final de un solo lienzo.
-* **DOCUMENTACIÓN ANÁLISIS DE DATOS PIZZERÍA...:** Explica el flujo narrativo, las decisiones de diseño y la implementación técnica del KPI.
+* **Análisis Pizzería Proyecto Final.pbix:** Contiene el dashboard final de un solo lienzo.
+* **DOCUMENTACIÓN PROYECTO FINAL:** Explica el flujo narrativo, las decisiones de diseño y la implementación técnica del KPI.
 
 ---
