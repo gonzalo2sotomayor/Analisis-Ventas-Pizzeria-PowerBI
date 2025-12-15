@@ -56,6 +56,6 @@ La caída del crecimiento anual (-0,21%) se explica por la contracción del últ
 
 ## Archivos Entregados
 * **Análisis Pizzería Proyecto Final.pbix:** Contiene el dashboard final de un solo lienzo.
-* **DOCUMENTACIÓN PROYECTO FINAL:** Explica el flujo narrativo, las decisiones de diseño y la implementación técnica del KPI.
+* **Documentación:** `README.md`
 
 ---
