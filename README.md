@@ -10,7 +10,7 @@ El dashboard está diseñado para responder de forma estructurada a las pregunta
 
 ---
 
-## 🧩 Estructura del Dashboard
+## Estructura del Dashboard
 El lienzo se organiza siguiendo una jerarquía visual clara:
 
 1. **Zona superior – Visión general (QUÉ)**  
